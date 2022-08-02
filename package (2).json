@@ -1,0 +1,9 @@
+{
+    "id": "wf-yaokong",
+    "name": "仿遥控器按钮组件",
+    "version": "1.0.0",
+    "description": "一个仿造遥控器样式的按钮组件",
+    "keywords": [
+        "按钮|遥控器|圆形"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "goeasy-unicloud",
+    "name": "Websocket实时通讯和消息推送(UniCloud版)",
+    "version": "2.2.4",
+    "description": "Websocket实时通讯,通知栏推送，支持UniCloud， 客户端支持APP、各种小程序和H5，快应用",
+    "keywords": [
+        "websocket",
+        "unicloud",
+        "推送"
+    ],
+    "dcloudext": {
+        "category": [
+            "uniCloud",
+            "云端一体项目模板"
+        ]
+    }
+}
